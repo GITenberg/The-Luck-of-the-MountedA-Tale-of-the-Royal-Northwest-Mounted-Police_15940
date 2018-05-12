@@ -1,0 +1,28 @@
+_repo: The-Luck-of-the-MountedA-Tale-of-the-Royal-Northwest-Mounted-Police_15940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kendall, Ralph S. (Ralph Selwood)
+    alias: Kendall, Ralph Selwood
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '6383'
+    url: http://www.gutenberg.org/2009/agents/6383
+description: ''
+gutenberg_issued: '2005-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcsh 'Mounted police -- Fiction'
+- !lcc 'PS'
+title: 'The Luck of the Mounted: A Tale of the Royal Northwest Mounted Police'
+url: http://www.gutenberg.org/ebooks/15940
